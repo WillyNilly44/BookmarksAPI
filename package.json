@@ -1,0 +1,22 @@
+{
+  "name": "pratique1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Labo1",
+  "main": "BookmarkService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node BookmarkService.js"
+  },
+  "author": "William Sauve",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": "12.18.3"
+  }
+}
